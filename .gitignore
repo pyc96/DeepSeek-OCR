@@ -1,0 +1,4 @@
+*.pyc
+output*.md
+output*.png
+OmniDocBench/
