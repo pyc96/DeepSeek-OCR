@@ -7,3 +7,11 @@ easydict
 addict 
 Pillow
 numpy
+pandas
+tqdm
+transformers >= 4.42.4  # Required for Gemma 2 and for additional chat template parameters.
+aiohttp
+huggingface_hub[cli]
+jinja2
+pillow
+tenacity
